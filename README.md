@@ -7,7 +7,7 @@ Files and resources for using Data Science, Python, and Jupyter Notebooks in the
 
 To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/derekjjackson/DH_PythonLibraries_JupyterNotebooks.git/master)
 
-Derek's e-mail: derek.jackson@hbsp.harvard.edu
+Derek's e-mail: derek.jackson.dj@gmail.com
 
 ## Agenda
 1. Intro
